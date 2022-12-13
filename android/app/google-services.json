@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "598543740076",
+    "project_id": "demowebrtc-198de",
+    "storage_bucket": "demowebrtc-198de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598543740076:android:fb75f9ce32c5a9b63dc309",
+        "android_client_info": {
+          "package_name": "com.mydemowebrtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598543740076-9i68n3i3bi4r4gdigs07len0skjhgsah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABw9G1oUlgbiblOSy9U_O6kwtyhou-UU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598543740076-9i68n3i3bi4r4gdigs07len0skjhgsah.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "598543740076-9td9hjb8vek15jbib8q9475sncgph3nj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mydemo.webrtc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
